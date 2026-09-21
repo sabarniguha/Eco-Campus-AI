@@ -1,10 +1,4 @@
-"""
-EcoCampus AI: Intelligent Campus Sustainability Assistant
-1M1B AI for Sustainability Virtual Internship
 
-A working prototype using synthetic demonstration data.
-No external API key is required. All AI-style features run locally.
-"""
 
 import os
 import re
