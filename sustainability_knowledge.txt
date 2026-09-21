@@ -1,0 +1,38 @@
+KEYWORDS: electricity, energy, lighting, led, power, computer lab, lab, equipment
+CONTENT: Switching to LED lighting can cut lighting-related electricity use significantly compared to older fluorescent or incandescent fixtures. In computer labs, enabling sleep/hibernate modes on idle machines, using power strips to fully shut down peripherals after hours, and scheduling automatic shutdowns overnight are practical, low-cost steps. Encouraging staff and students to switch off monitors and lab equipment when not in use also reduces standby power draw.
+---
+KEYWORDS: hvac, air conditioning, cooling, temperature, heating
+CONTENT: HVAC systems are often one of the largest electricity consumers on a campus. Optimizing thermostat schedules to match actual occupancy hours, sealing air leaks, cleaning filters regularly, and avoiding cooling unoccupied rooms can meaningfully reduce consumption. Setting a slightly higher cooling setpoint (for example 24-25°C) during peak hours is a simple, low-cost measure.
+---
+KEYWORDS: peak, monitoring, usage spike, sudden increase, unusual consumption
+CONTENT: A sudden spike in electricity consumption can result from several factors: extended operating hours, higher occupancy, malfunctioning or aging equipment running inefficiently, HVAC systems working harder in extreme weather, or equipment left running overnight. Regular peak-hour monitoring and sub-metering by building or floor helps identify where and when spikes occur so facilities teams can investigate.
+---
+KEYWORDS: water, wastage, leak, plumbing, tap
+CONTENT: A large share of water wastage on campuses comes from undetected leaks in pipes, taps, and flush systems. Routine leak inspections, prompt repairs, and installing simple flow indicators can catch problems early. Even small drips can waste large volumes of water over a month if left unaddressed.
+---
+KEYWORDS: low-flow, fixtures, faucet, showerhead, toilet
+CONTENT: Installing low-flow faucets, showerheads, and dual-flush toilets in hostels and common areas can reduce water consumption without affecting usability. These fixtures are inexpensive to retrofit and typically pay for themselves through reduced utility costs within a short period.
+---
+KEYWORDS: water conservation, responsible use, water monitoring
+CONTENT: Beyond fixtures, responsible water use depends on habits: turning off taps while not actively using water, reporting leaks promptly, and using water-efficient landscaping or irrigation timers for campus grounds. Periodic water audits by building help track whether conservation measures are working.
+---
+KEYWORDS: waste, reduce, reuse, recycle, segregation
+CONTENT: Waste reduction on campus follows the reduce-reuse-recycle hierarchy: first minimize waste generation (e.g., reducing single-use items), then reuse materials where possible, and finally recycle what cannot be reduced or reused. Source segregation — separating waste into wet, dry, and recyclable streams at the point of generation — is essential for recycling programs to work effectively.
+---
+KEYWORDS: responsible consumption, sustainable purchasing, procurement
+CONTENT: Responsible consumption involves purchasing decisions that consider lifecycle impact: choosing energy-efficient appliances, minimizing single-use plastics in canteens and events, and favoring vendors with sustainable practices. Campus procurement policies can embed these criteria into standard purchasing guidelines.
+---
+KEYWORDS: climate, emissions, carbon, renewable energy
+CONTENT: Reducing a campus's carbon footprint typically combines energy efficiency (using less energy overall), fuel and electricity source changes (such as rooftop solar or purchasing renewable energy), and reducing emissions from transportation. Even without large capital investment, efficiency measures and behavioral change can meaningfully lower a campus's indirect emissions from electricity use.
+---
+KEYWORDS: transportation, commute, sustainable travel
+CONTENT: Encouraging carpooling, cycling, shuttle services, and public transport use for staff and student commutes reduces transportation-related emissions. Providing bicycle parking and safe walking paths can support a shift away from single-occupancy vehicle use.
+---
+KEYWORDS: student, awareness, campaign, behavior, contribute
+CONTENT: Students can contribute to campus sustainability by adopting simple daily habits: switching off lights and fans when leaving a room, reporting leaks or faulty equipment, participating in waste segregation, and joining or starting sustainability awareness campaigns. Student-led green committees and peer awareness drives are often effective because they normalize sustainable behavior among classmates.
+---
+KEYWORDS: faculty, administration, human oversight, policy
+CONTENT: Faculty and administrative involvement matters because sustainability decisions with real budget or infrastructure impact should be reviewed by qualified staff rather than automated systems. AI or data tools can highlight where to look, but decisions such as retrofits, schedule changes, or policy updates should stay with human decision-makers who understand the wider context.
+---
+KEYWORDS: general, sustainability, overview, campus
+CONTENT: Campus sustainability improves when data, awareness, and accountability work together. Tracking consumption trends, investigating anomalies quickly, involving students and staff in conservation habits, and reviewing infrastructure choices periodically all contribute to a more resource-efficient campus over time.
